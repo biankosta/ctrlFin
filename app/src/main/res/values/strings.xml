@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">ctrlFinhhe</string>
+    <string name="app_name">ctrlFin</string>
+    <string name="txtLogin">Login:</string>
+    <string name="txtPassword">Senha:</string>
+    <string name="btSend">Enviar</string>
+    <string name="cbRemeber">Lembrar</string>
+    <string name="btList">Listar</string>
+    <string name="btRegister">Registrar</string>
+    <string name="btPending">Pendentes</string>
+    <string name="btSettings">Configurações</string>
 </resources>
